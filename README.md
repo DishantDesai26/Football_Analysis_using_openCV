@@ -7,6 +7,8 @@ This innovative project aims to revolutionize football match analysis through ad
 
 Our system goes beyond simple detection by implementing Kmeans clustering for jersey color analysis, enabling automatic team assignment. This feature allows us to calculate possession statistics with unprecedented precision. We've integrated optical flow algorithms to compensate for camera motion, ensuring accurate player tracking regardless of camera movement.
 
+![output](https://github.com/user-attachments/assets/e864323e-9070-4647-8985-341d4dbd66c1)
+
 A key innovation is our use of perspective transformation, which converts the flat video image into a 3D representation of the playing field. This breakthrough allows us to translate pixel-based measurements into real-world distances, providing precise data on player movements in meters.
 The culmination of these technologies enables us to generate detailed metrics on each player's performance, including speed and total distance covered during the match. This comprehensive approach to sports analytics bridges the gap between raw video footage and actionable insights, making it an invaluable tool for coaches, analysts, and sports scientists alike.
 
